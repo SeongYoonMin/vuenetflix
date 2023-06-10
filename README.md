@@ -44,3 +44,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+url = https://api.themoviedb.org/3/account/{account_id}
+API KEY = 5b5058e3a8882b920a5ea0867959d218
+
+Bearer Toekn
+API AcessToken = eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1YjUwNThlM2E4ODgyYjkyMGE1ZWEwODY3OTU5ZDIxOCIsInN1YiI6IjY0ODFjZjc4ZTI3MjYwMDE0N2I4ODhmYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.z2pzWceAYYTgqYx1ia3EyOutHohdcBhDQQ0hsCcs-Bc
